@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="756" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="792" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="143.21497485084086" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="143.21497485084086" y="0" width="97.67276759162824" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="240.88774244246912" y="0" width="96.15875860844011" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="337.0465010509092" y="0" width="67.5194774787867" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="404.56597852969594" y="0" width="21.66345069607598" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="426.229429225772" y="0" width="19.57998616728968" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="445.80941539306167" y="0" width="7.9500945952855755" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.75950998834725" y="0" width="6.240490011652848" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="140.50971863708443" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="140.50971863708443" y="0" width="94.58302440702435" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="235.09274304410883" y="0" width="93.11690900822602" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="328.20965205233483" y="0" width="65.5070669743551" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="393.71671902668993" y="0" width="20.97815733546335" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="414.69487636215325" y="0" width="18.96060033122981" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="433.6554766933831" y="0" width="18.64591898030212" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.3013956736852" y="0" width="7.698604326314788" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -273,15 +273,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                 </div>
             </section>
@@ -294,6 +294,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dream2333/NewsCrawler</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6f85963</div>
+                                        <div class="message">添加中信建投，修正其余bug</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -361,28 +381,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">master</span>
-                                        in
-                                        <span class="repo">dream2333/appium_wallt</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2023, 17:14:39 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Feb 2023, 18:15:43 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
