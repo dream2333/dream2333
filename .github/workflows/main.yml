@@ -33,7 +33,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 5
+          plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_skipped: dream2333
           plugin_activity_visibility: all
@@ -42,12 +42,12 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: jupyter notebook, html, css
-          plugin_languages_limit: 12
+          plugin_languages_limit: 8
           plugin_languages_details: lines,  percentage
           plugin_languages_recent_categories: markup, programming
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_traffic: yes
-          repositories_skipped: section_crawler
+          repositories_skipped: section_crawler,NewsCrawler
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
