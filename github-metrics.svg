@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            963 Commits
+                            965 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -203,7 +203,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    37 views in last two weeks
+                                    38 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="110.22023435326126" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="110.22023435326126" y="0" width="100.57860353038282" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="210.7988378836441" y="0" width="76.48228390903563" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="287.28112179267976" y="0" width="66.95184299999157" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="354.2329647926713" y="0" width="47.01135415036871" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="401.24431894304" y="0" width="31.2581567845241" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="432.50247572756416" y="0" width="15.083472070888721" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="447.5859477984529" y="0" width="12.414052201547177" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="109.0365633254553" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="109.0365633254553" y="0" width="99.49847536957226" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="208.53503869502757" y="0" width="80.60093609527782" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="289.13597479030534" y="0" width="66.23283748088419" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="355.36881227118954" y="0" width="46.506492423189215" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="401.8753046943787" y="0" width="30.92247092080263" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="432.7977756151814" y="0" width="14.92148848417443" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="447.7192640993558" y="0" width="12.280735900644144" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -244,7 +244,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>23.96%</div>
+                                <div>23.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -255,7 +255,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>16.63%</div>
+                                <div>17.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -266,7 +266,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>10.22%</div>
+                                <div>10.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -277,7 +277,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.28%</div>
+                                <div>3.24%</div>
                             </small>
                         </div>
                     </section>
@@ -290,7 +290,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>21.86%</div>
+                                <div>21.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -301,7 +301,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>14.55%</div>
+                                <div>14.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -312,7 +312,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>6.8%</div>
+                                <div>6.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -323,7 +323,7 @@
                                 C
                             </div>
                             <small>
-                                <div>2.7%</div>
+                                <div>2.67%</div>
                             </small>
                         </div>
                     </section>
@@ -338,6 +338,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dream2333/NewsCenter</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e98c4dd</div>
+                                        <div class="message">add viewmodel, LoginView, DialogView</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -414,26 +434,6 @@
                                     <div class="commit">
                                         <div class="sha">#11ea39c</div>
                                         <div class="message">add api</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dream2333/chatgpt-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d7dab12</div>
-                                        <div class="message">add fastapi</div>
                                     </div>
                                 </div>
                             </section>
@@ -539,7 +539,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2023, 23:14:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Jul 2023, 00:18:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
