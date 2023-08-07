@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            972 Commits
+                            973 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="107.12074578487959" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="107.12074578487959" y="0" width="95.38565153109096" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="202.50639731597056" y="0" width="93.6923353046544" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="296.1987326206249" y="0" width="63.49506695857382" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="359.69379957919875" y="0" width="44.58412115094823" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="404.277920730147" y="0" width="29.644273691393476" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.9221944215405" y="0" width="14.304700605612577" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.22689502715303" y="0" width="11.773104972846948" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="107.01102229133714" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="107.01102229133714" y="0" width="95.28794826322134" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="202.29897055455848" y="0" width="94.06754326635459" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="296.36651382091304" y="0" width="63.430029131229" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="359.79654295214203" y="0" width="44.53845375483967" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="404.3349967069817" y="0" width="29.613909141099178" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.94890584808087" y="0" width="14.290048339022889" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.23895418710373" y="0" width="11.761045812896207" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -244,7 +244,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>23.29%</div>
+                                <div>23.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -255,7 +255,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>20.37%</div>
+                                <div>20.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -266,7 +266,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>9.69%</div>
+                                <div>9.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -290,7 +290,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>20.74%</div>
+                                <div>20.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -301,7 +301,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>13.8%</div>
+                                <div>13.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -338,6 +338,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dream2333/NewsCenter</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c00f0fa</div>
+                                        <div class="message">ADD default page</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -407,26 +427,6 @@ my cpu model is 7840hs,  I'd be glad to provide support</div>
                                 <div class="details">
                                     <div>opened by djmartyhouse in <span class="repo">curlconverter/curlconverter</span></div>
                                     <div class="comment">same problem</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dream2333/NewsCenter</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5bda517</div>
-                                        <div class="message">change anime color</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -531,7 +531,7 @@ my cpu model is 7840hs,  I'd be glad to provide support</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2023, 14:04:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Aug 2023, 15:04:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
