@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            977 Commits
+                            978 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="107.52442924892466" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="107.52442924892466" y="0" width="95.09595676629536" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="202.62038601522002" y="0" width="94.72052939230176" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="297.3409154075217" y="0" width="63.052317194220805" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="360.3932326017425" y="0" width="44.273237013345096" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="404.66646961508764" y="0" width="29.43756479541193" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="434.10403441049954" y="0" width="14.20495422962391" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.30898864012346" y="0" width="11.691011359876475" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="106.85082243187318" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="106.85082243187318" y="0" width="97.38196612071687" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="204.23278855259002" y="0" width="94.12713499105672" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="298.35992354364674" y="0" width="62.65731420755444" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="361.01723775120115" y="0" width="43.99587907270368" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="405.0131168239048" y="0" width="29.253147687019954" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="434.26626451092477" y="0" width="14.115964647704557" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.38222915862934" y="0" width="11.617770841370604" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -244,7 +244,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>23.37%</div>
+                                <div>23.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -255,7 +255,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>20.59%</div>
+                                <div>20.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -266,7 +266,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>9.62%</div>
+                                <div>9.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -277,7 +277,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.09%</div>
+                                <div>3.07%</div>
                             </small>
                         </div>
                     </section>
@@ -290,7 +290,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>20.67%</div>
+                                <div>21.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -301,7 +301,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>13.71%</div>
+                                <div>13.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -312,7 +312,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>6.4%</div>
+                                <div>6.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -323,7 +323,7 @@
                                 C
                             </div>
                             <small>
-                                <div>2.54%</div>
+                                <div>2.53%</div>
                             </small>
                         </div>
                     </section>
@@ -338,6 +338,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dream2333/NewsCenter</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5944c36</div>
+                                        <div class="message">fix Navigation Bar</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -407,26 +427,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">minibear2021/wechatpayv3</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dream2333/NewsCenter</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c00f0fa</div>
-                                        <div class="message">ADD default page</div>
                                     </div>
                                 </div>
                             </section>
@@ -532,7 +532,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2023, 21:04:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 Aug 2023, 22:04:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
