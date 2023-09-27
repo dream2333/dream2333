@@ -49,5 +49,5 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_traffic: yes
           repositories_skipped: section_crawler,NewsCrawler
-          plugin_leetcode: yes
+          plugin_leetcode: no
           plugin_leetcode_sections: solved, skills, recent
