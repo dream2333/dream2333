@@ -48,6 +48,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_traffic: yes
-          repositories_skipped: section_crawler,NewsCrawler
+          # repositories_skipped: section_crawler,NewsCrawler
           plugin_leetcode: no
           plugin_leetcode_sections: solved, skills, recent
