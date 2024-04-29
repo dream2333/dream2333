@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="985" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1003" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1064 Commits
+                            1065 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="151.16985346048463" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="151.16985346048463" y="0" width="99.16809335931579" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="250.3379468198004" y="0" width="86.21204781854688" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="336.5499946383473" y="0" width="57.46551347993448" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="394.0155081182818" y="0" width="44.15261112487474" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="438.1681192431565" y="0" width="14.402183117080007" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="452.57030236023655" y="0" width="6.004311508325353" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.5746138685619" y="0" width="1.425386131438143" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="151.19999822528132" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="151.19999822528132" y="0" width="99.1584136085429" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="250.3584118338242" y="0" width="86.20363270126235" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="336.5620445350865" y="0" width="57.45990429829472" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="394.0219488333812" y="0" width="44.14830140934848" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="438.1702502427297" y="0" width="14.400777326785606" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="452.5710275695153" y="0" width="6.003725430313822" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.5747529998291" y="0" width="1.4252470001708166" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -244,7 +244,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>32.86%</div>
+                                <div>32.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -345,6 +345,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dream2333/ScrapySection</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f0eb99c</div>
+                                        <div class="message">数据结构分离解耦</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">dream2333/ScrapySection</span>
                                     </div>
@@ -427,29 +447,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#1 对长文本进行解密时会被截断</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">fidcz/xxtea-python</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2024, 09:27:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2024, 10:13:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
