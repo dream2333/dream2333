@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1126 Commits
+                            1129 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="172.14431159105604" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="172.14431159105604" y="0" width="92.43300921885792" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="264.57732080991394" y="0" width="80.35688436516438" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="344.9342051750784" y="0" width="53.56269498911576" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="398.49690016419413" y="0" width="41.15394955063755" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="439.6508497148316" y="0" width="13.424046784980169" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.0748964998118" y="0" width="5.596523662011054" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.6714201618229" y="0" width="1.3285798381771283" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="172.7231339150893" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="172.7231339150893" y="0" width="92.24714424773586" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="264.97027816282514" y="0" width="80.19530215423987" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="345.165580317065" y="0" width="53.454990730198915" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="398.6205710472639" y="0" width="41.07119688782337" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="439.6917679350873" y="0" width="13.397053613502608" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.0888215485899" y="0" width="5.5852701312906525" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.6740916798806" y="0" width="1.325908320119424" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -244,7 +244,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>37.42%</div>
+                                <div>37.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -255,7 +255,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>17.47%</div>
+                                <div>17.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -266,7 +266,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>8.95%</div>
+                                <div>8.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -277,7 +277,7 @@
                                 C
                             </div>
                             <small>
-                                <div>1.22%</div>
+                                <div>1.21%</div>
                             </small>
                         </div>
                     </section>
@@ -290,7 +290,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>20.09%</div>
+                                <div>20.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -301,7 +301,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>11.64%</div>
+                                <div>11.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -312,7 +312,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.92%</div>
+                                <div>2.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -338,6 +338,66 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dream2333/scrapy_konne</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e96ab31</div>
+                                        <div class="message">打印消息格式修改</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dream2333/scrapy_konne</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2ea8587</div>
+                                        <div class="message">修复关闭同步连接的问题</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dream2333/scrapy_konne</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b888adc</div>
+                                        <div class="message">去重更新修复start_requests不去重的问题</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -378,72 +438,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dream2333/scrapy_konne</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b48b8c7</div>
-                                        <div class="message">更新</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dream2333/scrapy_konne</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b962760</div>
-                                        <div class="message">日志内容更新</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dream2333/scrapy_konne</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#943e1a1</div>
-                                        <div class="message">日志提交显示错误修复</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 May 2024, 16:04:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 May 2024, 17:04:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
