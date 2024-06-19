@@ -28,12 +28,12 @@ jobs:
           # Options
           user: dream2333
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: Asia/Shanghai
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 4
+          plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_skipped: dream2333
           plugin_activity_visibility: all
@@ -52,11 +52,7 @@ jobs:
           plugin_followup_sections: user
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_repositories: yes
           plugin_notable_types: commit,pull_request
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
-          plugin_traffic: yes
           repositories_skipped: section_crawler
           plugin_leetcode: no
           plugin_leetcode_sections: solved, skills, recent
