@@ -49,9 +49,10 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_followup: yes
           plugin_followup_archived: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: repositories,user
+          plugin_followup_indepth: yes
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_from: all
           plugin_notable_types: commit
           plugin_traffic: yes
           repositories_skipped: section_crawler,NewsCrawler,Douyin-Web-Sign
