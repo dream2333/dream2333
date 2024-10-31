@@ -53,6 +53,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit,pull_request
-          repositories_skipped: section_crawler
+          repositories_skipped: section_crawler,YRX-Web-Reverse-OJ
           plugin_leetcode: no
           plugin_leetcode_sections: solved, skills, recent
