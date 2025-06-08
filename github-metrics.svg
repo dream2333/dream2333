@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="872" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1198" class="">
     <defs>
         <style/>
     </defs>
@@ -409,6 +409,102 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 179 commits in
+                                        <span class="repo">dream2333/oneplus13_sukisu</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#939d89a</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70b77e4</div>
+                                        <div class="message">Create 13t构建.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#146be4a</div>
+                                        <div class="message">Update a5p构建.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3a7a86</div>
+                                        <div class="message">Update 13构建.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f95a6aa</div>
+                                        <div class="message">Add files via upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9bdddc</div>
+                                        <div class="message">Delete .github/workflows/ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c32a792</div>
+                                        <div class="message">Add files via upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0dade6</div>
+                                        <div class="message">一加13构建.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ffa436</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e3c40b</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9538ba8</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff8edb0</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd883a5</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d851ff</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eb26f6</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fd9ef7</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7dbfb4</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e413344</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1faadc3</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f199e05</div>
+                                        <div class="message">Update ONEPLUS-SM8750-SuKiSu-SUSFS.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">dream2333/PythonVMP</span>
                                     </div>
@@ -442,32 +538,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dream2333/PythonVM-On-Python</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#53fca65</div>
-                                        <div class="message">修正readme</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2025, 08:22:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jun 2025, 09:33:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
