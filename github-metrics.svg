@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1699 Commits
+                            1736 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -255,14 +255,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.42105261376318" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="167.42105261376318" y="0" width="101.48990769457824" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="268.91096030834143" y="0" width="82.72106864735497" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="351.63202895569646" y="0" width="61.37611545449817" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="413.00814441019463" y="0" width="19.157127281331316" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="432.16527169152596" y="0" width="13.153581837833253" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="445.31885352935916" y="0" width="8.76765317073022" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.0865067000894" y="0" width="5.913493299910647" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="162.30809586264456" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="162.30809586264456" y="0" width="98.39045574026207" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="260.69855160290666" y="0" width="93.98218299837121" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="354.6807346012779" y="0" width="59.76251800788245" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="414.4432526091603" y="0" width="18.57207801938999" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="433.0153306285503" y="0" width="12.751877906283534" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="445.76720853483386" y="0" width="8.499893347393247" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="454.2671018822271" y="0" width="5.732898117772919" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -274,7 +274,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>36.4%</div>
+                                <div>35.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -285,7 +285,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>17.98%</div>
+                                <div>20.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -296,7 +296,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>4.16%</div>
+                                <div>4.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -307,7 +307,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>1.91%</div>
+                                <div>1.85%</div>
                             </small>
                         </div>
                     </section>
@@ -320,7 +320,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>22.06%</div>
+                                <div>21.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -331,7 +331,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>13.34%</div>
+                                <div>12.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -342,7 +342,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>2.86%</div>
+                                <div>2.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -353,7 +353,7 @@
                                 C
                             </div>
                             <small>
-                                <div>1.29%</div>
+                                <div>1.25%</div>
                             </small>
                         </div>
                     </section>
@@ -401,7 +401,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2026, 22:49:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2026, 23:46:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
